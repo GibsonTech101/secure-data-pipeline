@@ -1,0 +1,4 @@
+[2026-09-29T18:30:12.102Z] [SYS_INIT] Database schema initialized successfully.
+[2026-09-29T18:30:12.105Z] [INGEST_START] Processing sample_input.csv (SHA-256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855)
+[2026-09-29T18:30:12.109Z] [INTEGRITY_FAIL] Duplicate record_id flagged: REC-101
+[2026-09-29T18:30:12.110Z] [INGEST_COMPLETE] Ingested 3 valid records. Rejected 1 records.
